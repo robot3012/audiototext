@@ -17,8 +17,8 @@ Además, necesitas tener ffmpeg instalado y agregado a tu variable de entorno PA
 # Uso
 * Clona este repositorio:
 ```
-git clone https://github.com/tu_usuario/audio-to-text-converter.git
-cd audio-to-text-converter
+git clone https://github.com/robot3012/audiototext.git
+cd audiototext
 ```
 * Instala las dependencias:
 ```
